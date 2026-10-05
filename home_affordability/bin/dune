@@ -1,0 +1,4 @@
+(executable
+ (public_name home_affordability)
+ (name main)
+ (libraries home_affordability))

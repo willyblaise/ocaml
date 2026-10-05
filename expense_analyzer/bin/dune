@@ -1,0 +1,4 @@
+(executable
+ (public_name expense_analyzer)
+ (name main)
+ (libraries expense_analyzer))
